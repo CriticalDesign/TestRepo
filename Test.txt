@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 aAbbey deleted my mana!!!
 
 vlad am i right
+=======
+Abbey deleted my mana!!!
+
+blah blah blah
+>>>>>>> 817c32e6a7ab0ccf1ed52e034de74e416e1acf90
